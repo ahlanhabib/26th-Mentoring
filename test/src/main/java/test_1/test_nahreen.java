@@ -6,5 +6,6 @@ package test_1;
 public class test_nahreen {
     public static void main(String[] args) {
         System.out.println("Sorry dear");
+        System.out.println("Kha");
     }
 }
