@@ -8,5 +8,7 @@ public class test_nahreen {
         System.out.println("Sorry dear");
         System.out.println("hello");
         System.out.println("selenium");
+        System.out.println("Fakibaz");
+        System.out.println("Ahlan");
     }
 }
